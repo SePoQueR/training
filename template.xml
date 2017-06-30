@@ -56,10 +56,8 @@
     </front>
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
-        <div type="textpart" n="1" xml:id="part1">
-           <head>Epistula Romuli</head>
-          p. 22 Romulus Tiberino filio! de civitate attica [2] Aesopus quidam, homo graecus et ingeniosus, famulos suos docet, [3] quid nomine observare debeant. [4] verum ut vitam hominum et mores ostenderet, [5] inducit aves, arbores, et bestias et pecora loquentes probanda cuiuslibet fabula<e>. [6] ut noverint homines fabularum cur sit inventum genus, aperte et breviter narravit. [7] apposuit vera malis, composuit integra bonis, scripsit calumnias malorum, argumenta improborum, [8] docens infirmos esse umile, verba blanda potius cavere et cetera multa et miserias his exemplis scriptis. [9] id ego Romulus transtuli de graeco [sermone] in latinum. [10] si autem *legeris, Tiberine fili, et pleno animo advertas, invenies apposita ioca, [11] quae tibi multiplicent risum et acuant satis ingenium
-        </div>
+        <div type="textpart" n="1" xml:id="part1"> 
+          <p n="1"> Aesopus prior ipse de se fabulam dixit. </p> <p n="2">in sterquilinio quidam gallinacius, dum quaereret escam, invenit margaritam in indigno loco iacentem. quam ut vidit, sic ait, bona res, in stercore iaces.</p> <p n ="3"> te si cupidus invenisset,</p> <p n="4"> <supplied reason="lost">cum</supplied> <surplus>quo</surplus> gaudio te rapuisset, ut redires ad splendorem pristinum decoris tui!</p> <p n="5">ego te inveni in hoc loco iacentem, potius mihi escam quaero.</p> <p n="6">nec ego tibi prosum nec tu mihi. haec illis Aesopus narrat, qui <supplied reason="lost">ipsum legunt et</supplied> non intelligunt.</p> </div>
         <div type="textpart" n="2" xml:id="part2">
           <head>Title of Second Part</head>
           <!--Each new major section (e.g., book, volume) has a new <div>.-->
