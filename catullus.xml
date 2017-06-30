@@ -58,23 +58,24 @@
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="textpart" n="1" xml:id="part1">
            <head>Epistula Romuli</head>
-          
+           <l>Cui dono lepidum novum libellum</l>
+  <l>arida modo pumice expolitum?</l>
+  <l>Corneli, tibi: namque tu solebas</l>
+  <l>meas esse aliquid putare nugas</l>
+  <l>iam tum, cum ausus es unus Italorum</l>
+  <l>omne aevum tribue explicare cartis</l>
+  <l>doctis, Iuppiter, et laboriosis.</l>
+  <l>quare habe tibi quidquid hoc libelli.</l>
+  <l>qualecumque quod, patrona virgo,</l>
+  <l>plus uno maneat perenne saeclo.</l>
         </div>
           <!--Each new major section (e.g., book, volume) has a new <div>.-->
         
       </div>
     </body>
     <back>
-      <l>Cui dono lepidum novum libellum</l>
-      <l>arida modo pumice expolitum?</l>
-      <l>Corneli, tibi: namque tu solebas</l>
-      <l>meas esse aliquid putare nugas</l>
-      <l>iam tum, cum ausus es unus Italorum</l>
-      <l>omne aevum tribue explicare cartis</l>
-      <l>doctis, Iuppiter, et laboriosis.</l>
-      <l>quare habe tibi quidquid hoc libelli.</l>
-      <l>qualecumque quod, <o> patrona virgo,</l>
-      <l>plus uno maneat perenne saeclo.</l>
+
     </back>
   </text>
+ 
 </TEI>
